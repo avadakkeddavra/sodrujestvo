@@ -149,3 +149,15 @@ header .slider-nav a:before{
 header .slider-nav a.active:before{
     background-color: #000;
 }
+
+
+/*SERVICES*/
+.service{
+    height: 400px;
+    overflow: hidden;
+    padding: 25px 25px !important;
+    padding-bottom: 25px !important;
+}
+.service img{
+    width: 100%;
+}
